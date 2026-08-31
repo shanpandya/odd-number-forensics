@@ -1,0 +1,15 @@
+.env
+.venv/
+external/
+papers/
+*.pdf
+*.docx
+default_600k.md
+writeup/draft.md
+writeup/draft2.md
+writeup/draft3.md
+writeup/READING_QUEUE.md
+writeup/appendix_b_cots.md
+.DS_Store
+__pycache__/
+.idea/
