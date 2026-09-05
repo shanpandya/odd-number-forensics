@@ -1,0 +1,12 @@
+Fireworks      unavailable
+DeepInfra      odd-committed:{'unparsed': 4, 'odd': 1, 'even': 1} even-committed:{'unparsed': 4, 'even': 2} avg_reasoning:225 fail
+Together       odd-committed:{'unparsed': 6} even-committed:{'unparsed': 6} avg_reasoning:16 fail
+Parasail       odd-committed:{'unparsed': 1, 'odd': 4, 'even': 1} even-committed:{'even': 2, 'odd': 4} avg_reasoning:5414 fail
+Baidu          odd-committed:{'odd': 4, 'even': 1, 'unparsed': 1} even-committed:{'odd': 4, 'unparsed': 1, 'even': 1} avg_reasoning:7754 fail
+OpenInference  odd-committed:{'unparsed': 2, 'even': 3, 'apierr': 1} even-committed:{'apierr': 4, 'odd': 1, 'even': 1} avg_reasoning:0 fail
+Ambient        odd-committed:{'unparsed': 5, 'even': 1} even-committed:{'unparsed': 4, 'even': 2} avg_reasoning:108 fail
+Sail Research  unavailable
+Makora         odd-committed:{'odd': 5, 'apierr': 1} even-committed:{'even': 6} avg_reasoning:0 PASS
+Nebius         unavailable
+Novita         odd-committed:{'even': 2, 'odd': 4} even-committed:{'odd': 4, 'even': 2} avg_reasoning:2592 fail
+GMICloud       unavailable

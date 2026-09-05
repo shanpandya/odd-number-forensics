@@ -1,0 +1,8 @@
+[
+ {
+  "rollout_id": "deepseek-v4-flash-0731#1",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 9
+ }
+]

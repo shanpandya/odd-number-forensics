@@ -1,0 +1,20 @@
+[
+ {
+  "rollout_id": "deepseek-r1-0528#31",
+  "final_parity": "even",
+  "final_answer": 4,
+  "n_sentences": 86
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#33",
+  "final_parity": "even",
+  "final_answer": 0,
+  "n_sentences": 62
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#34",
+  "final_parity": "even",
+  "final_answer": 4,
+  "n_sentences": 99
+ }
+]

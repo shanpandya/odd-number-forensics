@@ -13,3 +13,14 @@ writeup/appendix_b_cots.md
 .DS_Store
 __pycache__/
 .idea/
+.claude/settings.local.json
+
+# copies of other people's documents - not for republication
+*Google Docs.txt
+odd_numbers_article.md
+
+# editor config and superseded draft scaffolds
+writeup/.obsidian/
+writeup/mats_draft.md
+writeup/mats_full.md
+writeup/mats_submission.md

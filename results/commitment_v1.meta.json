@@ -1,0 +1,146 @@
+[
+ {
+  "rollout_id": "deepseek-v4-flash-0731#1",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 9
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#3",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 16
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#5",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 18
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#4",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 5
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#6",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 2
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#8",
+  "final_parity": "odd",
+  "final_answer": 3,
+  "n_sentences": 8
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#9",
+  "final_parity": "odd",
+  "final_answer": 1,
+  "n_sentences": 72
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#7",
+  "final_parity": "odd",
+  "final_answer": 1,
+  "n_sentences": 40
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#10",
+  "final_parity": "odd",
+  "final_answer": 1,
+  "n_sentences": 45
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#12",
+  "final_parity": "odd",
+  "final_answer": 1,
+  "n_sentences": 43
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#13",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 16
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#2",
+  "final_parity": "odd",
+  "final_answer": 1,
+  "n_sentences": 100
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#16",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 4
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#14",
+  "final_parity": "odd",
+  "final_answer": 1,
+  "n_sentences": 78
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#17",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 7
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#18",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 1
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#20",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 8
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#19",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 2
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#15",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 14
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#21",
+  "final_parity": "odd",
+  "final_answer": 3,
+  "n_sentences": 41
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#0",
+  "final_parity": "odd",
+  "final_answer": 3,
+  "n_sentences": 4
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#24",
+  "final_parity": "odd",
+  "final_answer": 1,
+  "n_sentences": 38
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#23",
+  "final_parity": "odd",
+  "final_answer": 1,
+  "n_sentences": 238
+ },
+ {
+  "rollout_id": "deepseek-v4-flash-0731#22",
+  "final_parity": "odd",
+  "final_answer": 1,
+  "n_sentences": 64
+ }
+]

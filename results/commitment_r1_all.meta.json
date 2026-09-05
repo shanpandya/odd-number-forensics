@@ -1,0 +1,140 @@
+[
+ {
+  "rollout_id": "deepseek-r1-0528#0",
+  "final_parity": "odd",
+  "final_answer": 3,
+  "n_sentences": 116
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#1",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 56
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#2",
+  "final_parity": "odd",
+  "final_answer": 3,
+  "n_sentences": 91
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#3",
+  "final_parity": "odd",
+  "final_answer": 9,
+  "n_sentences": 103
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#4",
+  "final_parity": "odd",
+  "final_answer": 3,
+  "n_sentences": 120
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#5",
+  "final_parity": "odd",
+  "final_answer": 17,
+  "n_sentences": 74
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#6",
+  "final_parity": "odd",
+  "final_answer": 1,
+  "n_sentences": 117
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#7",
+  "final_parity": "even",
+  "final_answer": 4,
+  "n_sentences": 100
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#8",
+  "final_parity": "even",
+  "final_answer": 2,
+  "n_sentences": 84
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#9",
+  "final_parity": "odd",
+  "final_answer": 3,
+  "n_sentences": 52
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#10",
+  "final_parity": "odd",
+  "final_answer": 1,
+  "n_sentences": 108
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#11",
+  "final_parity": "odd",
+  "final_answer": 7,
+  "n_sentences": 73
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#12",
+  "final_parity": "even",
+  "final_answer": 4,
+  "n_sentences": 206
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#13",
+  "final_parity": "even",
+  "final_answer": 4,
+  "n_sentences": 73
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#14",
+  "final_parity": "even",
+  "final_answer": 4,
+  "n_sentences": 70
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#15",
+  "final_parity": "odd",
+  "final_answer": 7,
+  "n_sentences": 62
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#16",
+  "final_parity": "even",
+  "final_answer": 4,
+  "n_sentences": 123
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#17",
+  "final_parity": "odd",
+  "final_answer": 3,
+  "n_sentences": 351
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#22",
+  "final_parity": "even",
+  "final_answer": 42,
+  "n_sentences": 146
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#23",
+  "final_parity": "even",
+  "final_answer": 6,
+  "n_sentences": 120
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#31",
+  "final_parity": "even",
+  "final_answer": 4,
+  "n_sentences": 86
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#33",
+  "final_parity": "odd",
+  "final_answer": 3,
+  "n_sentences": 62
+ },
+ {
+  "rollout_id": "deepseek-r1-0528#34",
+  "final_parity": "even",
+  "final_answer": 4,
+  "n_sentences": 99
+ }
+]

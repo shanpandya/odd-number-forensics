@@ -1,0 +1,8 @@
+providers: ['DeepInfra', 'SiliconFlow', 'StreamLake', 'Novita']
+DeepInfra        odd-c:{'odd': 6} even-c:{'even': 6} neutral_len:1 PASS
+   neutral sample: 3
+SiliconFlow      odd-c:{'odd': 6} even-c:{'even': 6} neutral_len:56 PASS
+   neutral sample: 3
+StreamLake       odd-c:{'odd': 6} even-c:{'even': 6} neutral_len:1 PASS
+   neutral sample: 6
+Novita           unavailable
